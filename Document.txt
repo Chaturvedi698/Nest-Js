@@ -1,0 +1,1 @@
+Decorator is nothing it is just a function which add a meta data to the current class or add more property to the class.
